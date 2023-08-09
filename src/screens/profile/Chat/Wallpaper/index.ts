@@ -1,0 +1,1 @@
+export { WallpaperSettingsScreen } from './WallpaperSettingsScreen';

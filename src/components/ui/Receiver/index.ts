@@ -1,0 +1,1 @@
+export { ConfirmReceiver } from './ConfirmReceiver';
